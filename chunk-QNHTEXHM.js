@@ -1,1 +1,0 @@
-var t={GRUNDPFLEGE:"Grundpflege",BEHANDLUNGSPFLEGE:"Behandlungspflege",MEDIKAMENTENGABE:"Medikamentengabe",VERBANDSWECHSEL:"Verbandswechsel",HAUSWIRTSCHAFT:"Hauswirtschaft",BLUTDRUCKMESSUNG:"Blutdruckmessung",BLUTZUCKERMESSUNG:"Blutzuckermessung"};export{t as a};
